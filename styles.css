@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+
+  /* font-size: 10px; */
+  font-size: 62.5%;/*1 REM = 10px*/
+  
+}
+
+body {
+  font-family: 'Sono', sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+
+
+}
+
+.container {
+  max-width: 120rem;
+  padding: 0 3.2rem;
+  margin: 0 auto;
+  
+}
+
+.form {
+  margin-top: 5rem;
+  gap: 1rem;
+}
+
+.label{
+  font-size: 2rem;
+}
+
+.btn {
+  border-radius: 10%;
+  font-weight: bold;
+  padding: .2rem;
+  background-color: rgb(224, 111, 70);
+  color: white;
+}
+
+
+.convertidos {
+  margin-top: 2rem;
+  padding: 3rem 1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+.convertidos p {
+  margin-bottom: 1.5rem;
+}
