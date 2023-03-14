@@ -3,7 +3,7 @@ const resultados = document.querySelector('.resultados');
 const form = document.querySelector('.form');
 
 
-let = 0;
+let number = 0;
 
 form.addEventListener('submit',e => {
 
